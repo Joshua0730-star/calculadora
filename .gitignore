@@ -1,0 +1,3 @@
+#en este archivo que si o si debe tener esa extencion , debemos escribir las  rutas de los archivos que queremos que git ignore!
+
+.env
