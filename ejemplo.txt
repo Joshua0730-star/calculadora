@@ -1,1 +1,11 @@
 este texto es un escrito para hacer referencia a un archivo de ejemplo
+
+
+
+
+()=> {
+    conso.log('hola mundo);
+}
+
+
+(); // llamando funcion
