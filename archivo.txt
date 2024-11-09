@@ -1,3 +1,5 @@
 creando este archivo por primera vez bro, para practicar un poco de git
 
 añadiendo algo de contenido my bro, you know
+
+modificando archivo desde github, es decir desde el repo remoto bro donde la interface es mucho mas simple y agradable pero como a mi me gusta hacer lo dificil yo utilizo el bloc de notas
