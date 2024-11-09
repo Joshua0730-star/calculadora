@@ -1,6 +1,0 @@
-creando este archivo por primera vez bro, para practicar un poco de git
-
-añadiendo algo de contenido my bro, you know
-
-
-()=> utlizando las ligaduras que son muy importantes, y ademas de eso tambien podemos usar iconos mas esteticos
